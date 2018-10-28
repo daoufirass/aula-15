@@ -1,2 +1,2 @@
-# aula-15
-Modelos ARCH e GARCH
+# 15-Modelos_ARCH_GARCH
+Modelos heterocedasticos 
